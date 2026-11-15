@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <ESCP_MagesGuild_Enlist_Letter_Title>Joined the Mages Guild</ESCP_MagesGuild_Enlist_Letter_Title>
+    <ESCP_MagesGuild_Enlist_Letter_Label>Your colony now stands with the Mages Guild. Open the guild ledger at any settlement hosting them to draw pay, take work and see your standing.</ESCP_MagesGuild_Enlist_Letter_Label>
+    <ESCP_MagesGuild_Enlist_Button_Label>Join the Mages Guild</ESCP_MagesGuild_Enlist_Button_Label>
+    <ESCP_MagesGuild_Enlist_Button_Desc>Apply to the Mages Guild for access to its libraries, tutors and alchemists.</ESCP_MagesGuild_Enlist_Button_Desc>
+    <ESCP_MagesGuild_Enlist_Requrements_Not_Satisfied>The Mages Guild does not trust you yet. Standing: {0}.</ESCP_MagesGuild_Enlist_Requrements_Not_Satisfied>
+    <ESCP_MagesGuild_Enlisted_To_Hostile_Faction>You cannot join the Mages Guild while your colony is at odds with it.</ESCP_MagesGuild_Enlisted_To_Hostile_Faction>
+    <ESCP_MagesGuild_Enlisted_With_Key>Member of the Mages Guild</ESCP_MagesGuild_Enlisted_With_Key>
+    <ESCP_MagesGuild_Missions_Label>Contracts</ESCP_MagesGuild_Missions_Label>
+    <ESCP_MagesGuild_Missions_Desc>See what work the guild has posted.</ESCP_MagesGuild_Missions_Desc>
+    <ESCP_MagesGuild_Menu_Missions_Desc>Open contracts posted by the Mages Guild. Accepting one costs nothing; payment comes when it is done.</ESCP_MagesGuild_Menu_Missions_Desc>
+    <ESCP_MagesGuild_Menu_Missions_Select_Quest>Select contract</ESCP_MagesGuild_Menu_Missions_Select_Quest>
+    <ESCP_MagesGuild_Menu_Missions_Start_Quest>Accept</ESCP_MagesGuild_Menu_Missions_Start_Quest>
+    <ESCP_MagesGuild_Menu_Missions_Collect_Bounty>Collect</ESCP_MagesGuild_Menu_Missions_Collect_Bounty>
+    <ESCP_MagesGuild_Salary_Label>Draw stipend</ESCP_MagesGuild_Salary_Label>
+    <ESCP_MagesGuild_Salary_Desc>Collect your share from the guild's steward.</ESCP_MagesGuild_Salary_Desc>
+    <ESCP_MagesGuild_Provisions_Label>Draw supplies</ESCP_MagesGuild_Provisions_Label>
+    <ESCP_MagesGuild_Provisions_Desc>Take what the guild sets aside for its members on the road.</ESCP_MagesGuild_Provisions_Desc>
+    <ESCP_MagesGuild_Storage_Label>Guild lockbox</ESCP_MagesGuild_Storage_Label>
+    <ESCP_MagesGuild_Storage_Desc>Leave goods in the guild's keeping and collect them from any hall.</ESCP_MagesGuild_Storage_Desc>
+    <ESCP_MagesGuild_Resign_Menu_Text>Leave the Mages Guild? Your standing will suffer for it.</ESCP_MagesGuild_Resign_Menu_Text>
+    <ESCP_MagesGuild_Resign_Letter_Title>Left the Mages Guild</ESCP_MagesGuild_Resign_Letter_Title>
+    <ESCP_MagesGuild_Resign_Letter_Label>Your colony has left the Mages Guild. Its doors are closed to you for now.</ESCP_MagesGuild_Resign_Letter_Label>
+    <ESCP_MagesGuild_Resign_Button_Label>Leave the guild</ESCP_MagesGuild_Resign_Button_Label>
+    <ESCP_MagesGuild_Resign_Button_Desc>Give up your membership and every rank that goes with it.</ESCP_MagesGuild_Resign_Button_Desc>
+    <ESCP_MagesGuild_Kick_Out_Letter_Title>Expelled from the Mages Guild</ESCP_MagesGuild_Kick_Out_Letter_Title>
+    <ESCP_MagesGuild_Kick_Out_Label_Title>Relations have fallen too far. The Mages Guild has struck your colony from its books.</ESCP_MagesGuild_Kick_Out_Label_Title>
+    <ESCP_MagesGuild_Work_0_Label>Copy Manuscripts</ESCP_MagesGuild_Work_0_Label>
+    <ESCP_MagesGuild_Work_0_Desc>Earn a stipend copying worn texts for the hall's library.</ESCP_MagesGuild_Work_0_Desc>
+    <ESCP_MagesGuild_Work_1_Label>Attend Lectures</ESCP_MagesGuild_Work_1_Label>
+    <ESCP_MagesGuild_Work_1_Desc>Sit through the hall's lectures and take careful notes.</ESCP_MagesGuild_Work_1_Desc>
+    <ESCP_MagesGuild_Work_2_Label>Rest with the Healers</ESCP_MagesGuild_Work_2_Label>
+    <ESCP_MagesGuild_Work_2_Desc>Let the hall's restoration mages look after the caravan. The sick and wounded are tended now and then, and fight off disease half again as fast.</ESCP_MagesGuild_Work_2_Desc>
+
+</LanguageData>

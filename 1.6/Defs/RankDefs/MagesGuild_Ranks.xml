@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+    <ESCP.Ranks.RankTrackDef>
+        <defName>ESCP_RankTrack_MagesGuild</defName>
+        <label>Mages Guild ranks</label>
+        <iconPath>UI/Abilities/Flashstorm</iconPath>
+        <guild>MagesGuild</guild>
+        <rootTier>ESCP_Rank_MagesGuild_Apprentice</rootTier>
+        <owningFaction>ESCP_Faction_MagesGuild</owningFaction>
+        <collectiveNoun>the Guild</collectiveNoun>
+        <drillLabel>Spell Practice</drillLabel>
+        <drillDesc>Practice with any colonist. Both stop what they are doing and both gain skill XP. Once per day.</drillDesc>
+        <studyLabel>Comparative Study</studyLabel>
+        <studyDesc>Work through the guild's craft with another member. Both gain skill XP. Once per day.</studyDesc>
+        <inspectLabel>Review Notes</inspectLabel>
+        <inspectDesc>Look over a junior member's gear. Good upkeep earns praise and poor upkeep earns a sharp word.</inspectDesc>
+        <punishLabel>Assign Copying Duty...</punishLabel>
+        <punishDesc>Set a junior member to tedious labor for a failure, souring their mood. Once per day per member.</punishDesc>
+        <rallyLabel>Ward Yourselves!</rallyLabel>
+        <rallyDesc>Call on {0} to fight harder for a short while. Once every few days.</rallyDesc>
+        <fallInLabel>Gather Round</fallInLabel>
+        <fallInDesc>Order {0} to fall in behind you, up to four deep. They hold formation until released.</fallInDesc>
+        <dismissLabel>Return to Studies</dismissLabel>
+        <dismissDesc>Release {0} from formation so they can return to their duties.</dismissDesc>
+    </ESCP.Ranks.RankTrackDef>
+
+    <ESCP.Ranks.RankTierDef>
+        <defName>ESCP_Rank_MagesGuild_Apprentice</defName>
+        <label>apprentice</label>
+        <description>Sweeps the hall, copies the texts, and is not yet trusted near the good reagents.</description>
+        <nextTierOptions>
+            <li>ESCP_Rank_MagesGuild_Evoker</li>
+        </nextTierOptions>
+    </ESCP.Ranks.RankTierDef>
+
+    <ESCP.Ranks.RankTierDef>
+        <defName>ESCP_Rank_MagesGuild_Evoker</defName>
+        <label>evoker</label>
+        <description>Has passed the first examinations and may work spells unsupervised.</description>
+        <minDaysInRank>4</minDaysInRank>
+        <skillRequirements>
+            <Intellectual>5</Intellectual>
+        </skillRequirements>
+        <minMissionsCompleted>1</minMissionsCompleted>
+        <minGuildReputation>10</minGuildReputation>
+        <trainingXpPerHour>
+            <Intellectual>400</Intellectual>
+            <Medicine>150</Medicine>
+        </trainingXpPerHour>
+        <expedition>ESCP_Expedition_Guild_Novice</expedition>
+        <discipline>Scholarly</discipline>
+        <nextTierOptions>
+            <li>ESCP_Rank_MagesGuild_Conjurer</li>
+        </nextTierOptions>
+    </ESCP.Ranks.RankTierDef>
+
+    <ESCP.Ranks.RankTierDef>
+        <defName>ESCP_Rank_MagesGuild_Conjurer</defName>
+        <label>conjurer</label>
+        <description>A recognized practitioner with a seat at the hall's table.</description>
+        <minDaysInRank>9</minDaysInRank>
+        <skillRequirements>
+            <Intellectual>8</Intellectual>
+        </skillRequirements>
+        <minMissionsCompleted>2</minMissionsCompleted>
+        <minGuildReputation>25</minGuildReputation>
+        <trainingXpPerHour>
+            <Intellectual>500</Intellectual>
+            <Medicine>200</Medicine>
+        </trainingXpPerHour>
+        <expedition>ESCP_Expedition_Guild_Novice</expedition>
+        <discipline>Scholarly</discipline>
+        <nextTierOptions>
+            <li>ESCP_Rank_MagesGuild_Magister</li>
+        </nextTierOptions>
+    </ESCP.Ranks.RankTierDef>
+
+    <ESCP.Ranks.RankTierDef>
+        <defName>ESCP_Rank_MagesGuild_Magister</defName>
+        <label>magister</label>
+        <description>Runs research at the hall and takes apprentices of their own.</description>
+        <minDaysInRank>14</minDaysInRank>
+        <skillRequirements>
+            <Intellectual>11</Intellectual>
+        </skillRequirements>
+        <minMissionsCompleted>4</minMissionsCompleted>
+        <minGuildReputation>50</minGuildReputation>
+        <trainingXpPerHour>
+            <Intellectual>600</Intellectual>
+            <Medicine>250</Medicine>
+        </trainingXpPerHour>
+        <expedition>ESCP_Expedition_Guild_Veteran</expedition>
+        <discipline>Scholarly</discipline>
+        <nextTierOptions>
+            <li>ESCP_Rank_MagesGuild_MasterWizard</li>
+        </nextTierOptions>
+    </ESCP.Ranks.RankTierDef>
+
+    <ESCP.Ranks.RankTierDef>
+        <defName>ESCP_Rank_MagesGuild_MasterWizard</defName>
+        <label>master wizard</label>
+        <description>Speaks for an entire guild hall on matters of study and policy.</description>
+        <minDaysInRank>20</minDaysInRank>
+        <skillRequirements>
+            <Intellectual>14</Intellectual>
+        </skillRequirements>
+        <minMissionsCompleted>6</minMissionsCompleted>
+        <minGuildReputation>75</minGuildReputation>
+        <trainingXpPerHour>
+            <Intellectual>700</Intellectual>
+            <Medicine>300</Medicine>
+        </trainingXpPerHour>
+        <expedition>ESCP_Expedition_Guild_Veteran</expedition>
+        <discipline>Scholarly</discipline>
+    </ESCP.Ranks.RankTierDef>
+
+</Defs>

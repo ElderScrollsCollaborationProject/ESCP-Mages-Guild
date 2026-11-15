@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <ESCP.Guilds.GuildBranchDef>
+        <defName>ESCP_GuildBranch_MagesGuild</defName>
+        <guild>MagesGuild</guild>
+        <hostFactionDefs>
+            <li MayRequire="Rick.ESCP.Imperials">ESCP_Faction_Imperial</li>
+            <li MayRequire="Rick.ESCP.Bretons">ESCP_Faction_Kingdom_of_Daggerfall</li>
+            <li MayRequire="Rick.ESCP.Bretons">ESCP_Faction_Kingdom_of_Wayrest</li>
+        </hostFactionDefs>
+    </ESCP.Guilds.GuildBranchDef>
+
+</Defs>

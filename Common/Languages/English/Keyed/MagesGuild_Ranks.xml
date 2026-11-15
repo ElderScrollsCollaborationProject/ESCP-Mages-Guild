@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <ESCP_Rank_Mentor_MagesGuild>Master:</ESCP_Rank_Mentor_MagesGuild>
+    <ESCP_Rank_NoMentor_MagesGuild>No master</ESCP_Rank_NoMentor_MagesGuild>
+    <ESCP_Rank_Promote_MagesGuild>Recommend for Advancement</ESCP_Rank_Promote_MagesGuild>
+    <ESCP_Rank_NextRank_MagesGuild>Next rank</ESCP_Rank_NextRank_MagesGuild>
+    <ESCP_Rank_ChoosePath_MagesGuild>Choose a school</ESCP_Rank_ChoosePath_MagesGuild>
+    <ESCP_Rank_DaysInRank_MagesGuild>{0} days at this rank in the Mages Guild</ESCP_Rank_DaysInRank_MagesGuild>
+    <ESCP_Rank_Promoted_Title_MagesGuild>Advanced: {0}</ESCP_Rank_Promoted_Title_MagesGuild>
+    <ESCP_Rank_Promoted_Text_MagesGuild>The Council of Mages has approved it. {0} is now {1} of the Mages Guild.</ESCP_Rank_Promoted_Text_MagesGuild>
+    <ESCP_Rank_Demoted_Title_MagesGuild>Reduced: {0}</ESCP_Rank_Demoted_Title_MagesGuild>
+    <ESCP_Rank_Demoted_Expedition_MagesGuild>{0}'s errand for the Guild went wrong, and the Council has reduced them from {1} to {2}.</ESCP_Rank_Demoted_Expedition_MagesGuild>
+    <ESCP_Rank_Demoted_KickedOut_MagesGuild>The Guild has closed its doors to the colony. {0} is reduced from {1} to {2}.</ESCP_Rank_Demoted_KickedOut_MagesGuild>
+    <ESCP_Rank_FormUp_Message_MagesGuild>{0} gathers the members of {1}.</ESCP_Rank_FormUp_Message_MagesGuild>
+    <ESCP_Rank_Dismiss_Message_MagesGuild>{0} sends everyone back to their studies.</ESCP_Rank_Dismiss_Message_MagesGuild>
+    <ESCP_Rank_Rally_Title_MagesGuild>{0} calls for wards</ESCP_Rank_Rally_Title_MagesGuild>
+    <ESCP_Rank_Rally_Text_MagesGuild>{0} calls out the warding words, and every member of {1} on the field raises a shield of magicka.</ESCP_Rank_Rally_Text_MagesGuild>
+    <ESCP_Rank_DrillingComplete_MagesGuild>{0} and {1} finished practicing their spells.</ESCP_Rank_DrillingComplete_MagesGuild>
+    <ESCP_Rank_StudyingComplete_MagesGuild>{0} and {1} finished comparing notes.</ESCP_Rank_StudyingComplete_MagesGuild>
+    <ESCP_Rank_InspectionComplete_Commended_MagesGuild>{0} reviews {1}'s notes and finds them meticulous.</ESCP_Rank_InspectionComplete_Commended_MagesGuild>
+    <ESCP_Rank_InspectionComplete_Reprimanded_MagesGuild>{0} reviews {1}'s notes and hands them back covered in corrections.</ESCP_Rank_InspectionComplete_Reprimanded_MagesGuild>
+    <ESCP_Rank_InspectionComplete_Passed_MagesGuild>{0} reviews {1}'s notes. Acceptable.</ESCP_Rank_InspectionComplete_Passed_MagesGuild>
+    <ESCP_Rank_InspectionComplete_NoGear_MagesGuild>{0} asks for {1}'s notes, but there is nothing to show.</ESCP_Rank_InspectionComplete_NoGear_MagesGuild>
+    <ESCP_Rank_PunishmentAssigned_MagesGuild>{0} sets {1} to copying manuscripts.</ESCP_Rank_PunishmentAssigned_MagesGuild>
+    <ESCP_Rank_MentorDown_Message_MagesGuild>{1} has fallen! {0} recalls every lesson they were taught.</ESCP_Rank_MentorDown_Message_MagesGuild>
+    <ESCP_Rank_Suspended_Title_MagesGuild>Guild membership suspended</ESCP_Rank_Suspended_Title_MagesGuild>
+    <ESCP_Rank_History_Enrolled_MagesGuild>Joined the Mages Guild as {0}.</ESCP_Rank_History_Enrolled_MagesGuild>
+    <ESCP_Rank_History_FormedUp_MagesGuild>Gathered {0}.</ESCP_Rank_History_FormedUp_MagesGuild>
+    <ESCP_Rank_History_Inspected_MagesGuild>Reviewed {0}'s notes.</ESCP_Rank_History_Inspected_MagesGuild>
+    <ESCP_Rank_History_Rallied_MagesGuild>Called for wards in the name of {0}.</ESCP_Rank_History_Rallied_MagesGuild>
+    <ESCP_Rank_History_Punished_MagesGuild>Set {0} to copying.</ESCP_Rank_History_Punished_MagesGuild>
+    <ESCP_Rank_History_MentorDown_MagesGuild>Master {0} was struck down.</ESCP_Rank_History_MentorDown_MagesGuild>
+    <ESCP_Rank_History_MentorDied_MagesGuild>Master {0} has died.</ESCP_Rank_History_MentorDied_MagesGuild>
+
+</LanguageData>
