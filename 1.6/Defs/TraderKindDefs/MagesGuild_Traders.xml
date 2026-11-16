@@ -52,6 +52,31 @@
                 <countRange>300~800</countRange>
             </li>
 
+            <li Class="StockGenerator_Tag">
+                <tradeTag>ESCP_SpellTome</tradeTag>
+                <thingDefCountRange>2~4</thingDefCountRange>
+                <countRange>1~1</countRange>
+            </li>
+
+            <li Class="StockGenerator_Tag">
+                <tradeTag>ESCP_SoulGem</tradeTag>
+                <thingDefCountRange>2~3</thingDefCountRange>
+                <countRange>2~5</countRange>
+            </li>
+            <li Class="StockGenerator_Category">
+                <categoryDef>ESCP_Resources_Raw</categoryDef>
+                <thingDefCountRange>2~4</thingDefCountRange>
+                <totalPriceRange>150~500</totalPriceRange>
+            </li>
+            <li Class="StockGenerator_Tag">
+                <tradeTag>ESCP_ElementalSalts</tradeTag>
+                <thingDefCountRange>1~2</thingDefCountRange>
+                <countRange>4~12</countRange>
+            </li>
+            <li Class="StockGenerator_BuyTradeTag">
+                <tag>ESCP_Bullion</tag>
+            </li>
+
         </stockGenerators>
 
     </TraderKindDef>
