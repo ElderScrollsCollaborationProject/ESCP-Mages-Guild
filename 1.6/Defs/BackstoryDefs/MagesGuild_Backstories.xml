@@ -7,7 +7,7 @@
         <slot>Childhood</slot>
         <title>arcane prodigy</title>
         <titleShort>prodigy</titleShort>
-        <description>[PAWN_nameDef] showed early aptitude for things that didn't quite make sense: fires that bent toward [PAWN_objective], animals that went quiet when [PAWN_pronoun] was anxious, books that fell open to the relevant page. The guild's recruiter arrived before [PAWN_pronoun] turned twelve. [PAWN_pronoun] was told it was an opportunity. [PAWN_pronoun]'s family was told it was an honor. Neither party was entirely wrong.</description>
+        <description>[PAWN_nameDef] showed early aptitude for things that didn't quite make sense: fires that bent toward [PAWN_objective], animals that went quiet when [PAWN_pronoun] was anxious, books that fell open to the relevant page. The guild's recruiter arrived before [PAWN_pronoun] turned twelve. [PAWN_possessive] family got a purse of coin and a letter twice a year, and [PAWN_pronoun] got a cot in the guildhall dormitory.</description>
         <skillGains>
             <Intellectual>3</Intellectual>
             <Artistic>2</Artistic>
@@ -40,7 +40,7 @@
         <slot>Adulthood</slot>
         <title>guild apprentice</title>
         <titleShort>apprentice</titleShort>
-        <description>[PAWN_nameDef] has been a guild apprentice for long enough that calling [PAWN_objective] an apprentice has become quietly embarrassing to both parties. The guild does not rush advancement. [PAWN_pronoun] copies manuscripts, catalogs acquisitions, and attends lectures that are occasionally taught by people who remember when the events discussed were current events. [PAWN_pronoun] learns something useful every few weeks. The rest of the time, [PAWN_pronoun] files.</description>
+        <description>[PAWN_nameDef] has been a guild apprentice for six years, longer than most. [PAWN_pronoun] copies manuscripts, catalogs new acquisitions and sits through lectures from wizards who rarely look up from their notes. The work is dull, but [PAWN_pronoun] has read more of the guild library than some of the people teaching [PAWN_objective].</description>
         <skillGains>
             <Intellectual>5</Intellectual>
             <Artistic>3</Artistic>
@@ -62,7 +62,7 @@
         <slot>Adulthood</slot>
         <title>guild wizard</title>
         <titleShort>wizard</titleShort>
-        <description>[PAWN_nameDef] holds a full guild rank and a specialization, which means [PAWN_pronoun] is expected to be useful rather than promising. [PAWN_possessive] research produces results on schedule, [PAWN_possessive] commissions return completed, and [PAWN_possessive] quarterly filings are submitted on time. The guild considers this exceptional. [PAWN_pronoun] does not.</description>
+        <description>[PAWN_nameDef] holds a full guild rank and a specialty in Alteration. [PAWN_pronoun] takes commissions from merchants and minor nobles, mostly wards and preserving charms, and spends the rest of [PAWN_possessive] time on research the guild rarely reads.</description>
         <skillGains>
             <Intellectual>7</Intellectual>
             <Artistic>4</Artistic>
@@ -85,7 +85,7 @@
         <slot>Adulthood</slot>
         <title>guild warlock</title>
         <titleShort>warlock</titleShort>
-        <description>[PAWN_nameDef] has held the rank of Warlock for some years now, which is to say [PAWN_pronoun] is senior enough to be consulted and not senior enough to be blamed. [PAWN_pronoun] runs a laboratory, supervises two or three apprentices, and has a working theory that is either brilliant or incorrect, a distinction [PAWN_pronoun] expects to settle within the decade. The archmage has twice referred to [PAWN_objective] as indispensable, which [PAWN_pronoun] has noted is not the same as appreciated.</description>
+        <description>[PAWN_nameDef] has held the rank of Warlock for years. [PAWN_pronoun] runs a laboratory, teaches two or three apprentices and has been chasing the same theory about soul gems for most of that time. The archmage calls [PAWN_objective] indispensable and has never once raised [PAWN_possessive] stipend.</description>
         <skillGains>
             <Intellectual>9</Intellectual>
             <Artistic>5</Artistic>
@@ -164,7 +164,7 @@
         <slot>Adulthood</slot>
         <title>guild healer</title>
         <titleShort>healer</titleShort>
-        <description>[PAWN_nameDef] studied Restoration and took a post treating the sick who came to the guildhall door. [PAWN_pronoun] charges the rich and does not charge the poor, and the guild has stopped asking [PAWN_objective] to change that.</description>
+        <description>[PAWN_nameDef] studied Restoration and took a post treating the sick who came to the guildhall door. [PAWN_pronoun] charges the rich and does not charge the poor, and the guild treasurer complains about it every season.</description>
         <skillGains>
             <Medicine>6</Medicine>
             <Intellectual>3</Intellectual>
